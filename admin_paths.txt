@@ -1,0 +1,7 @@
+hidden-admin
+secure-login
+staff-only
+admincontrol
+rootadmin
+system-admin
+private/admin
